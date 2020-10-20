@@ -1,0 +1,11 @@
+
+models/
+results/
+ai/data_sets/
+ai/output_models/
+*.mat
+*.pyc
+*.png
+*.pdf
+*.bmp
+*.h5

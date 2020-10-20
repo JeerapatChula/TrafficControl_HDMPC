@@ -1,0 +1,73 @@
+{
+  "seed_step": 5,
+  "start_trial": 1,
+  "max_trial": 5,
+  "output_path": "D:\SUMO\output",
+  "sumo_gui": False,
+  "scenarios":
+  {
+    "sathorn_full_junctions_morning_100": {
+      "sim_length": 100,
+      "profiles":[
+        {"name": "fixed_case", "active": False},
+        {"name": "proof_case", "active": False},
+        {"name": "test_model", "active": True}],
+      "sumo_options": {
+        "--time-to-teleport": "-1",
+        "--no-internal-links": "true",
+        "--ignore-junction-blocker": "0",
+        "-a": "network.add.xml",
+        "-W": "true",
+        "--scale": "1.00"
+        }
+    },
+    "sathorn_full_junctions_morning_085": {
+      "sim_length": 10800,
+      "profiles":[
+        {"name": "fixed_case", "active": False},
+        {"name": "b_1", "active": False}],
+      "sumo_options": {
+        "--time-to-teleport": "300",
+        "--no-internal-links": "true",
+        "--ignore-junction-blocker": "1",
+        "-a": "network.add.xml",
+        "-W": "true",
+        "--scale": "0.85",
+      }
+    },
+    "sathorn_full_junctions_morning_075": {
+      "sim_length": 10800,
+      "profiles":[
+        {"name": "fixed_case", "active": False},
+        {"name": "b_1", "active": False}],
+      "sumo_options": {
+        "--time-to-teleport": "300",
+        "--no-internal-links": "true",
+        "--ignore-junction-blocker": "1",
+        "-a": "network.add.xml",
+        "-W": "true",
+        "--scale": "0.75"
+      }
+    }
+  },
+  "weighting": {"gamma_step": 1000, "gamma_start": 0, "gamma_stop": 20000},
+  "controllers": {
+    "Fixed": {"name": "Fixed", "active": False, "weighted": False, "options": {}},
+    "Fuzzy": {"name": "Fuzzy", "active": False, "weighted": False, "options": {}},
+    "HDC": {"name": "HDC", "active": False, "weighted": True, "options": {}},
+    "HDMPC1_Np2": {"name": "HDMPC1", "active": False, "weighted": True, "options": {"np": 2}},
+    "HDMPC1_Np3": {"name": "HDMPC1", "active": False, "weighted": True, "options": {"np": 3}},
+    "HDMPC2_Np1": {"name": "HDMPC2", "active": False, "weighted": True, "options": {"np": 1}},
+    "HDMPC2_Np2": {"name": "HDMPC2", "active": False, "weighted": True, "options": {"np": 2}},
+    "HDMPC2_Np3": {"name": "HDMPC2", "active": False, "weighted": True, "options": {"np": 3}},
+    "HDMPC_Np1": {"name": "HDMPC4", "active": False, "weighted": True, "options": {"np": 1}},
+    "HDMPC_Np2": {"name": "HDMPC4", "active": False, "weighted": True, "options": {"np": 2}},
+    "HDMPC_Np3": {"name": "HDMPC4", "active": False, "weighted": True, "options": {"np": 3}},
+    "HDMPC_PROOF_Np1": {"name": "HDMPC_PROOF", "active": False, "weighted": True, "options": {"np": 1}},
+    "HDMPC_PROOF_Np2": {"name": "HDMPC_PROOF", "active": False, "weighted": True, "options": {"np": 2}},
+    "HDMPC_PROOF_Np3": {"name": "HDMPC_PROOF", "active": False, "weighted": True, "options": {"np": 3}},
+    "HDMPC_Np1": {"name": "HDMPC5", "active": True, "weighted": True, "options": {"np": 1}},
+    "HDMPC_Np2": {"name": "HDMPC5", "active": False, "weighted": True, "options": {"np": 2}},
+    "HDMPC_Np3": {"name": "HDMPC5", "active": False, "weighted": True, "options": {"np": 3}},
+    }
+}

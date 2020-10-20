@@ -1,0 +1,12 @@
+{
+  "A1": {
+      "intersections": ["J1"],
+      "source": 1776,
+      "sink": 1375
+    },
+  "A2": {
+      "intersections": ["J2"],
+      "source": 1312,
+      "sink": 1497
+    }
+}

@@ -1,0 +1,100 @@
+{
+  "B1" : {
+    "area": "A1",
+    "arrival_rate": 0,
+    "departure_rate": 0,
+    "road_in": {"intersection": "J6", "name": "R27", "weigth": 1.0},
+    "road_out": {"intersection": "J6", "name": "R28", "weigth": 1.0}
+  },
+  "B2" : {
+    "area": "A1",
+    "arrival_rate": 340,
+    "departure_rate": 0,
+    "road_in": {"intersection": "J7", "name": "R33", "weigth": 1.0},
+    "road_out": {"intersection": "J7", "name": "R34", "weigth": 1.0}
+  },
+  "B3" : {
+    "area": "A1",
+    "arrival_rate": 670,
+    "departure_rate": 0,
+    "road_in": {"intersection": "J8", "name": "R39", "weigth": 1.0},
+    "road_out": {"intersection": "J8", "name": "R40", "weigth": 1.0}
+  },
+  "B4" : {
+    "area": "A1",
+    "arrival_rate": 300,
+    "departure_rate": 0,
+    "road_in": {"intersection": "J7", "name": "R38", "weigth": 1.0},
+    "road_out": {"intersection": "J7", "name": "R37", "weigth": 1.0}
+  },
+  "B5" : {
+    "area": "A1",
+    "arrival_rate": 600,
+    "departure_rate": 640,
+    "road_in": {"intersection": "J9", "name": "R45", "weigth": 1.0},
+    "road_out": {"intersection": "J9", "name": "R44", "weigth": 1.0}
+  },
+  "B6" : {
+    "area": "A1",
+    "arrival_rate": 770,
+    "departure_rate": 470,
+    "road_in": {"intersection": "J10", "name": "R47", "weigth": 1.0},
+    "road_out": {"intersection": "J10", "name": "R46", "weigth": 1.0}
+  },
+  "B7" : {
+    "area": "A2",
+    "arrival_rate": 270,
+    "departure_rate": 440,
+    "road_in": {"intersection": "J1", "name": "R1", "weigth": 1.0},
+    "road_out": {"intersection": "J1", "name": "R2", "weigth": 1.0}
+  },
+  "B8" : {
+    "area": "A2",
+    "arrival_rate": 0,
+    "departure_rate": 0,
+    "road_in": {"intersection": "J3", "name": "R48", "weigth": 1.0},
+    "road_out": {"intersection": "J3", "name": "R49", "weigth": 1.0}
+  },
+  "B9" : {
+    "area": "A2",
+    "arrival_rate": 440,
+    "departure_rate": 640,
+    "road_in": {"intersection": "J2", "name": "R14", "weigth": 1.0},
+    "road_out": {"intersection": "J2", "name": "R13", "weigth": 1.0}
+  },
+  "B10" : {
+    "area": "A3",
+    "arrival_rate": 570,
+    "departure_rate": 850,
+    "road_in": {"intersection": "J4", "name": "R17", "weigth": 1.0},
+    "road_out": {"intersection": "J4", "name": "R18", "weigth": 1.0}
+  },
+  "B11" : {
+    "area": "A3",
+    "arrival_rate": 600,
+    "departure_rate": 340,
+    "road_in": {"intersection": "J4", "name": "R19", "weigth": 1.0},
+    "road_out": {"intersection": "J4", "name": "R20", "weigth": 1.0}
+  },
+  "B12" : {
+    "area": "A3",
+    "arrival_rate": 1000,
+    "departure_rate": 1140,
+    "road_in": {"intersection": "J5", "name": "R23", "weigth": 1.0},
+    "road_out": {"intersection": "J5", "name": "R24", "weigth": 1.0}
+  },
+  "B13" : {
+    "area": "A3",
+    "arrival_rate": 1570,
+    "departure_rate": 800,
+    "road_in": {"intersection": "J5", "name": "R26", "weigth": 1.0},
+    "road_out": {"intersection": "J5", "name": "R25", "weigth": 1.0}
+  },
+  "B14" : {
+    "area": "A1",
+    "arrival_rate": 1551,
+    "departure_rate": 1353,
+    "road_in": {"intersection": "J10", "name": "R42", "weigth": 1.0},
+    "road_out": {"intersection": "J10", "name": "R43", "weigth": 0.7424}
+  }
+}

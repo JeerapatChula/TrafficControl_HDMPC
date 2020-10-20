@@ -1,0 +1,17 @@
+{
+  "A1": {
+      "intersections": ["J6", "J7", "J8", "J9", "J10"],
+      "adjacents": ["A2"],
+      "demand_rate": 540,
+    },
+  "A2": {
+      "intersections": ["J1", "J2", "J3"],
+      "adjacents": ["A1", "A3"],
+      "demand_rate": -2790,
+    },
+  "A3": {
+      "intersections": ["J4", "J5"],
+      "adjacents": ["A2"],
+      "demand_rate": -1200,
+    }
+}

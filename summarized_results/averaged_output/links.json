@@ -1,0 +1,42 @@
+{
+    "L1": {
+        "capacity": 3400,
+        "ratio": 1.3404728873579432,
+        "roads": [
+            "R3",
+            "R15"
+        ],
+        "sink_node": "A2",
+        "source_node": "A1"
+    },
+    "L2": {
+        "capacity": 2700,
+        "ratio": 1.6113321737811146,
+        "roads": [
+            "R4",
+            "R16"
+        ],
+        "sink_node": "A1",
+        "source_node": "A2"
+    },
+    "L3": {
+        "capacity": 1700,
+        "ratio": 0.9076246349119124,
+        "roads": [
+            "R5",
+            "R11"
+        ],
+        "sink_node": "A3",
+        "source_node": "A2"
+    },
+    "L4": {
+        "capacity": 1700,
+        "ratio": 1.1275709478880382,
+        "roads": [
+            "R6",
+            "R12"
+        ],
+        "sink_node": "A2",
+        "source_node": "A3"
+    }
+}

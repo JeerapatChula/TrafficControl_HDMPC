@@ -1,0 +1,4 @@
+{
+  "L1": {"roads": ["R8"], "source_node": "A1", "sink_node": "A2", "ratio": 0.8429},
+  "L2": {"roads": ["R7"], "source_node": "A2", "sink_node": "A1", "ratio": 1.0480},
+}

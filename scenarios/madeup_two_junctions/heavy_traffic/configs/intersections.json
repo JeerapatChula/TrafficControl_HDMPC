@@ -1,0 +1,48 @@
+{
+  "J1": {
+  "junction_id": "J1",
+  "default_signals": [94, 5, 62, 5, 13, 5, 31, 5],
+  "fixed_phase": [1, 3, 5, 7],
+  "available_lanes": [
+    [("R2", 1), ("R2", 2), ("R2", 3), ("R5", 1)],
+    [("R5", 1)],
+    [("R5", 1), ("R5", 2), ("R5", 3), ("R11", 1)],
+    [],
+    [("R8", 1), ("R8", 2), ("R8", 3), ("R2", 1)],
+    [("R8", 1)],
+    [("R11", 1), ("R11", 2), ("R11", 3), ("R8", 1)],
+    []],
+  "trafficlight_default": [
+    "rrrrrrrrrrGGGGGGGrrr",
+    "rrrrrrrrrrYYYYYGGrrr",
+    "GGrrrrrrrrrrrrrGGGGG",
+    "YYrrrrrrrrrrrrrYYYYY",
+    "rrrrrGGGGGGGrrrrrrrr",
+    "rrrrrGGYYYYYrrrrrrrr",
+    "GGGGGGGrrrrrrrrrrrrr",
+    "YYYYYYYrrrrrrrrrrrrr"]
+  },
+  "J2": {
+    "junction_id": "J2",
+    "default_signals": [15, 5, 155, 5, 15, 5, 15, 5],
+    "fixed_phase": [1, 3, 5, 7],
+    "available_lanes": [
+      [("R4", 1), ("R4", 2), ("R4", 3), ("R7", 1)],
+      [("R7", 1)],
+      [("R7", 1), ("R7", 2), ("R7", 3), ("R13", 1)],
+      [],
+      [("R10", 1), ("R10", 2), ("R10", 3), ("R4", 1)],
+      [("R10", 1)],
+      [("R13", 1), ("R13", 2), ("R13", 3), ("R10", 1)],
+      []],
+    "trafficlight_default": [
+      "rrrrrrrrrrGGGGGGGrrr",
+      "rrrrrrrrrrYYYYYGGrrr",
+      "GGrrrrrrrrrrrrrGGGGG",
+      "YYrrrrrrrrrrrrrYYYYY",
+      "rrrrrGGGGGGGrrrrrrrr",
+      "rrrrrGGYYYYYrrrrrrrr",
+      "GGGGGGGrrrrrrrrrrrrr",
+      "YYYYYYYrrrrrrrrrrrrr"]
+  }
+}

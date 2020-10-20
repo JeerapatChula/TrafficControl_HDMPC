@@ -1,0 +1,406 @@
+{
+    "R1": [
+        {
+            "capacity": 20,
+            "ratio": 1.0,
+            "sink": "B7",
+            "source": "J1"
+        }
+    ],
+    "R10": [
+        {
+            "capacity": 47,
+            "ratio": 1.161165682612981,
+            "sink": "J3",
+            "source": "J2"
+        }
+    ],
+    "R11": [
+        {
+            "capacity": 71,
+            "ratio": 0.9071908845124482,
+            "sink": "J5",
+            "source": "J2"
+        }
+    ],
+    "R12": [
+        {
+            "capacity": 114,
+            "ratio": 1.12755813176018,
+            "sink": "J2",
+            "source": "J5"
+        }
+    ],
+    "R13": [
+        {
+            "capacity": 68,
+            "ratio": 1.0033915614238174,
+            "sink": "J2",
+            "source": "B9"
+        }
+    ],
+    "R14": [
+        {
+            "capacity": 20,
+            "ratio": 0.9999150516604438,
+            "sink": "B9",
+            "source": "J2"
+        }
+    ],
+    "R15": [
+        {
+            "capacity": 84,
+            "ratio": 1.338734996296925,
+            "sink": "J3",
+            "source": "J10"
+        }
+    ],
+    "R16": [
+        {
+            "capacity": 168,
+            "ratio": 1.612033751631403,
+            "sink": "J10",
+            "source": "J3"
+        }
+    ],
+    "R17": [
+        {
+            "capacity": 20,
+            "ratio": 0.9999362695681393,
+            "sink": "B10",
+            "source": "J4"
+        }
+    ],
+    "R18": [
+        {
+            "capacity": 28,
+            "ratio": 1.0000937855359258,
+            "sink": "J4",
+            "source": "B10"
+        }
+    ],
+    "R19": [
+        {
+            "capacity": 20,
+            "ratio": 1.0,
+            "sink": "B11",
+            "source": "J4"
+        }
+    ],
+    "R2": [
+        {
+            "capacity": 20,
+            "ratio": 1.007320644216691,
+            "sink": "J1",
+            "source": "B7"
+        }
+    ],
+    "R20": [
+        {
+            "capacity": 35,
+            "ratio": 0.8071201030869399,
+            "sink": "J4",
+            "source": "B11"
+        }
+    ],
+    "R21": [
+        {
+            "capacity": 20,
+            "ratio": 1.8480720293513473,
+            "sink": "J4",
+            "source": "J5"
+        }
+    ],
+    "R22": [
+        {
+            "capacity": 20,
+            "ratio": 0.03607748790817733,
+            "sink": "J5",
+            "source": "J4"
+        }
+    ],
+    "R23": [
+        {
+            "capacity": 21,
+            "ratio": 0.9999387525250406,
+            "sink": "B12",
+            "source": "J5"
+        }
+    ],
+    "R24": [
+        {
+            "capacity": 43,
+            "ratio": 0.8525846251425206,
+            "sink": "J5",
+            "source": "B12"
+        }
+    ],
+    "R25": [
+        {
+            "capacity": 53,
+            "ratio": 1.0754401892813912,
+            "sink": "J5",
+            "source": "B13"
+        }
+    ],
+    "R26": [
+        {
+            "capacity": 20,
+            "ratio": 0.9997780988100835,
+            "sink": "B13",
+            "source": "J5"
+        }
+    ],
+    "R27": [
+        {
+            "capacity": 20,
+            "ratio": 1,
+            "sink": "B1",
+            "source": "J6"
+        }
+    ],
+    "R28": [
+        {
+            "capacity": 20,
+            "ratio": 1,
+            "sink": "J6",
+            "source": "B1"
+        }
+    ],
+    "R29": [
+        {
+            "capacity": 50,
+            "ratio": 0.9717050173849405,
+            "sink": "J7",
+            "source": "J6"
+        }
+    ],
+    "R3": [
+        {
+            "capacity": 56,
+            "ratio": 2.5008473534982603,
+            "sink": "J1",
+            "source": "J8"
+        }
+    ],
+    "R30": [
+        {
+            "capacity": 20,
+            "ratio": 1.1342487410380149,
+            "sink": "J6",
+            "source": "J7"
+        }
+    ],
+    "R31": [
+        {
+            "capacity": 29,
+            "ratio": 0.6903275836530558,
+            "sink": "J6",
+            "source": "J9"
+        }
+    ],
+    "R32": [
+        {
+            "capacity": 20,
+            "ratio": 1.1911412842608984,
+            "sink": "J9",
+            "source": "J6"
+        }
+    ],
+    "R33": [
+        {
+            "capacity": 20,
+            "ratio": 1,
+            "sink": "B2",
+            "source": "J7"
+        }
+    ],
+    "R34": [
+        {
+            "capacity": 23,
+            "ratio": 0.9990696691702676,
+            "sink": "J7",
+            "source": "B2"
+        }
+    ],
+    "R35": [
+        {
+            "capacity": 68,
+            "ratio": 1.2226927445004159,
+            "sink": "J8",
+            "source": "J7"
+        }
+    ],
+    "R36": [
+        {
+            "capacity": 20,
+            "ratio": 1.0021411893127847,
+            "sink": "J7",
+            "source": "J8"
+        }
+    ],
+    "R37": [
+        {
+            "capacity": 32,
+            "ratio": 0.9990260752129649,
+            "sink": "J7",
+            "source": "B4"
+        }
+    ],
+    "R38": [
+        {
+            "capacity": 20,
+            "ratio": 1,
+            "sink": "B4",
+            "source": "J7"
+        }
+    ],
+    "R39": [
+        {
+            "capacity": 20,
+            "ratio": 1,
+            "sink": "B3",
+            "source": "J8"
+        }
+    ],
+    "R4": [
+        {
+            "capacity": 113,
+            "ratio": 1.2173508360881984,
+            "sink": "J8",
+            "source": "J1"
+        }
+    ],
+    "R40": [
+        {
+            "capacity": 37,
+            "ratio": 0.9996662792066151,
+            "sink": "J8",
+            "source": "B3"
+        }
+    ],
+    "R41": [
+        {
+            "capacity": 100,
+            "ratio": 1.0745593550837493,
+            "sink": "J10",
+            "source": "J8"
+        }
+    ],
+    "R42": [
+        {
+            "capacity": 46,
+            "ratio": 1,
+            "sink": "J10",
+            "source": "J9"
+        },
+        {
+            "capacity": 46,
+            "ratio": 1.2276221661224718,
+            "sink": "J10",
+            "source": "B14"
+        }
+    ],
+    "R43": [
+        {
+            "capacity": 20,
+            "ratio": 0.2667016880459073,
+            "sink": "J9",
+            "source": "J10"
+        },
+        {
+            "capacity": 20,
+            "ratio": 1.0023674143808272,
+            "sink": "B14",
+            "source": "J10"
+        }
+    ],
+    "R44": [
+        {
+            "capacity": 29,
+            "ratio": 0.9938948121369124,
+            "sink": "J9",
+            "source": "B5"
+        }
+    ],
+    "R45": [
+        {
+            "capacity": 20,
+            "ratio": 0.9997632984918732,
+            "sink": "B5",
+            "source": "J9"
+        }
+    ],
+    "R46": [
+        {
+            "capacity": 31,
+            "ratio": 1.0000097836144024,
+            "sink": "J10",
+            "source": "B6"
+        }
+    ],
+    "R47": [
+        {
+            "capacity": 20,
+            "ratio": 0.9997249750832128,
+            "sink": "B6",
+            "source": "J10"
+        }
+    ],
+    "R48": [
+        {
+            "capacity": 20,
+            "ratio": 1,
+            "sink": "B8",
+            "source": "J3"
+        }
+    ],
+    "R49": [
+        {
+            "capacity": 20,
+            "ratio": 1,
+            "sink": "J3",
+            "source": "B8"
+        }
+    ],
+    "R5": [
+        {
+            "capacity": 62,
+            "ratio": 1.132542029811443,
+            "sink": "J4",
+            "source": "J1"
+        }
+    ],
+    "R6": [
+        {
+            "capacity": 38,
+            "ratio": 1.1392564207348255,
+            "sink": "J1",
+            "source": "J4"
+        }
+    ],
+    "R7": [
+        {
+            "capacity": 50,
+            "ratio": 1.074782384184125,
+            "sink": "J1",
+            "source": "J2"
+        }
+    ],
+    "R8": [
+        {
+            "capacity": 76,
+            "ratio": 0.8769784226948427,
+            "sink": "J2",
+            "source": "J1"
+        }
+    ],
+    "R9": [
+        {
+            "capacity": 104,
+            "ratio": 1.5275248869418419,
+            "sink": "J2",
+            "source": "J3"
+        }
+    ]
+}

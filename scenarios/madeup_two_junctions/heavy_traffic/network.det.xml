@@ -1,0 +1,99 @@
+<additionals>
+    <e1Detector id="e1Detector_R10_0_in" lane="R10_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R10_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R10_0_out" lane="R10_0" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R10_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R10_1_in" lane="R10_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R10_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R10_1_out" lane="R10_1" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R10_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R10_2_in" lane="R10_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R10_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R10_2_out" lane="R10_2" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R10_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R11_0_in" lane="R11_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R11_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R11_0_out" lane="R11_0" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R11_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R11_1_in" lane="R11_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R11_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R11_1_out" lane="R11_1" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R11_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R11_2_in" lane="R11_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R11_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R11_2_out" lane="R11_2" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R11_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R12_0_in" lane="R12_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R12_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R12_0_out" lane="R12_0" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R12_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R12_1_in" lane="R12_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R12_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R12_1_out" lane="R12_1" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R12_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R12_2_in" lane="R12_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R12_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R12_2_out" lane="R12_2" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R12_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R13_0_in" lane="R13_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R13_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R13_0_out" lane="R13_0" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R13_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R13_1_in" lane="R13_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R13_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R13_1_out" lane="R13_1" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R13_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R13_2_in" lane="R13_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R13_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R13_2_out" lane="R13_2" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R13_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R14_0_in" lane="R14_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R14_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R14_0_out" lane="R14_0" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R14_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R14_1_in" lane="R14_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R14_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R14_1_out" lane="R14_1" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R14_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R14_2_in" lane="R14_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R14_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R14_2_out" lane="R14_2" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R14_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R1_0_in" lane="R1_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R1_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R1_0_out" lane="R1_0" pos="178.10" freq="100.00" file="/home/mild/sumologfile/e1Detector_R1_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R1_1_in" lane="R1_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R1_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R1_1_out" lane="R1_1" pos="178.10" freq="100.00" file="/home/mild/sumologfile/e1Detector_R1_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R1_2_in" lane="R1_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R1_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R1_2_out" lane="R1_2" pos="178.10" freq="100.00" file="/home/mild/sumologfile/e1Detector_R1_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R2_0_in" lane="R2_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R2_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R2_0_out" lane="R2_0" pos="178.10" freq="100.00" file="/home/mild/sumologfile/e1Detector_R2_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R2_1_in" lane="R2_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R2_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R2_1_out" lane="R2_1" pos="178.10" freq="100.00" file="/home/mild/sumologfile/e1Detector_R2_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R2_2_in" lane="R2_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R2_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R2_2_out" lane="R2_2" pos="178.10" freq="100.00" file="/home/mild/sumologfile/e1Detector_R2_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R3_0_in" lane="R3_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R3_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R3_0_out" lane="R3_0" pos="178.10" freq="100.00" file="/home/mild/sumologfile/e1Detector_R3_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R3_1_in" lane="R3_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R3_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R3_1_out" lane="R3_1" pos="178.10" freq="100.00" file="/home/mild/sumologfile/e1Detector_R3_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R3_2_in" lane="R3_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R3_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R3_2_out" lane="R3_2" pos="178.10" freq="100.00" file="/home/mild/sumologfile/e1Detector_R3_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R4_0_in" lane="R4_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R4_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R4_0_out" lane="R4_0" pos="178.10" freq="100.00" file="/home/mild/sumologfile/e1Detector_R4_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R4_1_in" lane="R4_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R4_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R4_1_out" lane="R4_1" pos="178.10" freq="100.00" file="/home/mild/sumologfile/e1Detector_R4_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R4_2_in" lane="R4_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R4_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R4_2_out" lane="R4_2" pos="178.10" freq="100.00" file="/home/mild/sumologfile/e1Detector_R4_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R5_0_in" lane="R5_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R5_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R5_0_out" lane="R5_0" pos="178.15" freq="100.00" file="/home/mild/sumologfile/e1Detector_R5_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R5_1_in" lane="R5_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R5_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R5_1_out" lane="R5_1" pos="178.15" freq="100.00" file="/home/mild/sumologfile/e1Detector_R5_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R5_2_in" lane="R5_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R5_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R5_2_out" lane="R5_2" pos="178.15" freq="100.00" file="/home/mild/sumologfile/e1Detector_R5_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R6_0_in" lane="R6_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R6_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R6_0_out" lane="R6_0" pos="178.15" freq="100.00" file="/home/mild/sumologfile/e1Detector_R6_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R6_1_in" lane="R6_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R6_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R6_1_out" lane="R6_1" pos="178.15" freq="100.00" file="/home/mild/sumologfile/e1Detector_R6_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R6_2_in" lane="R6_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R6_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R6_2_out" lane="R6_2" pos="178.15" freq="100.00" file="/home/mild/sumologfile/e1Detector_R6_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R7_0_in" lane="R7_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R7_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R7_0_out" lane="R7_0" pos="164.5" freq="100.00" file="/home/mild/sumologfile/e1Detector_R7_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R7_1_in" lane="R7_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R7_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R7_1_out" lane="R7_1" pos="164.5" freq="100.00" file="/home/mild/sumologfile/e1Detector_R7_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R7_2_in" lane="R7_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R7_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R7_2_out" lane="R7_2" pos="164.5" freq="100.00" file="/home/mild/sumologfile/e1Detector_R7_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R8_0_in" lane="R8_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R8_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R8_0_out" lane="R8_0" pos="164.5" freq="100.00" file="/home/mild/sumologfile/e1Detector_R8_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R8_1_in" lane="R8_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R8_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R8_1_out" lane="R8_1" pos="164.5" freq="100.00" file="/home/mild/sumologfile/e1Detector_R8_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R8_2_in" lane="R8_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R8_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R8_2_out" lane="R8_2" pos="164.5" freq="100.00" file="/home/mild/sumologfile/e1Detector_R8_2_out.txt" friendlyPos="0"/>
+
+    <e1Detector id="e1Detector_R9_0_in" lane="R9_0" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R9_0_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R9_0_out" lane="R9_0" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R9_0_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R9_1_in" lane="R9_1" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R9_1_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R9_1_out" lane="R9_1" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R9_1_out.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R9_2_in" lane="R9_2" pos="5.00" freq="100.00" file="/home/mild/sumologfile/e1Detector_R9_2_in.txt" friendlyPos="0"/>
+    <e1Detector id="e1Detector_R9_2_out" lane="R9_2" pos="181.40" freq="100.00" file="/home/mild/sumologfile/e1Detector_R9_2_out.txt" friendlyPos="0"/>
+</additionals>

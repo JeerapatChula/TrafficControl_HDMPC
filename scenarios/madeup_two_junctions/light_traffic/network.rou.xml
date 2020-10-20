@@ -1,0 +1,80 @@
+<routes>
+	<route id="route_W02_W06" edges="R2 R6"/>
+	<route id="route_W02_W12" edges="R2 R12"/>
+	<route id="route_W02_W03" edges="R2 R7 R3"/>
+	<route id="route_W02_W09" edges="R2 R7 R9"/>
+	<route id="route_W02_W14" edges="R2 R7 R14"/>
+
+	<route id="route_W05_W01" edges="R5 R1"/>
+	<route id="route_W05_W12" edges="R5 R12"/>
+	<route id="route_W05_W03" edges="R5 R7 R3"/>
+	<route id="route_W05_W09" edges="R5 R7 R9"/>
+	<route id="route_W05_W14" edges="R5 R7 R14"/>
+
+	<route id="route_W11_W01" edges="R11 R1"/>
+	<route id="route_W11_W06" edges="R11 R6"/>
+	<route id="route_W11_W03" edges="R11 R7 R3"/>
+	<route id="route_W11_W09" edges="R11 R7 R9"/>
+	<route id="route_W11_W14" edges="R11 R7 R14"/>
+
+	<route id="route_W04_W09" edges="R4 R9"/>
+	<route id="route_W04_W14" edges="R4 R14"/>
+	<route id="route_W04_W01" edges="R4 R8 R1"/>
+	<route id="route_W04_W06" edges="R4 R8 R6"/>
+	<route id="route_W04_W12" edges="R4 R8 R12"/>
+
+	<route id="route_W10_W03" edges="R10 R3"/>
+	<route id="route_W10_W14" edges="R10 R14"/>
+	<route id="route_W10_W01" edges="R10 R8 R1"/>
+	<route id="route_W10_W06" edges="R10 R8 R6"/>
+	<route id="route_W10_W12" edges="R10 R8 R12"/>
+
+	<route id="route_W13_W03" edges="R13 R3"/>
+	<route id="route_W13_W09" edges="R13 R9"/>
+	<route id="route_W13_W01" edges="R13 R8 R1"/>
+	<route id="route_W13_W06" edges="R13 R8 R6"/>
+	<route id="route_W13_W12" edges="R13 R8 R12"/>
+
+
+
+	<vType id="type1" accel="0.8" decel="4.5" sigma="0.5" length="5" maxSpeed="70"/>
+	<vType id="type2" accel="0.75" decel="4.7" sigma="0.5" length="5" maxSpeed="65"/>
+
+
+
+	<flow id="flow_W02_W06" route="route_W02_W06" type="type1" begin="0" 	number="100" probability="0.01" departSpeed="max"/>
+	<flow id="flow_W02_W12" route="route_W02_W12" type="type2" begin="0" 	number="300" probability="0.01"/>
+	<flow id="flow_W02_W03" route="route_W02_W03" type="type1" begin="0" 	number="1250" probability="0.02"/>
+	<flow id="flow_W02_W09" route="route_W02_W09" type="type2" begin="0" 	number="2000" probability="0.02"/>
+	<flow id="flow_W02_W14" route="route_W02_W14" type="type1" begin="0" 	number="1200" probability="0.02"/>
+
+	<flow id="flow_W05_W01" route="route_W05_W01" type="type2" begin="0" 	number="250" probability="0.02"/>
+	<flow id="flow_W05_W12" route="route_W05_W12" type="type1" begin="0" 	number="300" probability="0.01"/>
+	<flow id="flow_W05_W03" route="route_W05_W03" type="type2" begin="0" 	number="1050" probability="0.02"/>
+	<flow id="flow_W05_W09" route="route_W05_W09" type="type1" begin="0" 	number="1500" probability="0.02"/>
+	<flow id="flow_W05_W14" route="route_W05_W14" type="type2" begin="0" 	number="500" probability="0.02"/>
+
+	<flow id="flow_W11_W01" route="route_W11_W01" type="type1" begin="0" 	number="200" probability="0.02"/>
+	<flow id="flow_W11_W06" route="route_W11_W06" type="type2" begin="0" 	number="250" probability="0.01"/>
+	<flow id="flow_W11_W03" route="route_W11_W03" type="type1" begin="0" 	number="1100" probability="0.02"/>
+	<flow id="flow_W11_W09" route="route_W11_W09" type="type2" begin="0" 	number="1800" probability="0.02"/>
+	<flow id="flow_W11_W14" route="route_W11_W14" type="type1" begin="0" 	number="200" probability="0.01"/>
+
+	<flow id="flow_W04_W09" route="route_W04_W09" type="type2" begin="0" 	number="75" probability="0.005"/>
+	<flow id="flow_W04_W14" route="route_W04_W14" type="type1" begin="0" 	number="50" probability="0.005"/>
+	<flow id="flow_W04_W01" route="route_W04_W01" type="type2" begin="0" 	number="100" probability="0.001"/>
+	<flow id="flow_W04_W06" route="route_W04_W06" type="type1" begin="0" 	number="70" probability="0.005"/>
+	<flow id="flow_W04_W12" route="route_W04_W12" type="type2" begin="0" 	number="90" probability="0.005"/>
+
+	<flow id="flow_W10_W03" route="route_W10_W03" type="type1" begin="0" 	number="50" probability="0.005"/>
+	<flow id="flow_W10_W14" route="route_W10_W14" type="type2" begin="0" 	number="75" probability="0.005"/>
+	<flow id="flow_W10_W01" route="route_W10_W01" type="type1" begin="0" 	number="75" probability="0.005"/>
+	<flow id="flow_W10_W06" route="route_W10_W06" type="type2" begin="0" 	number="85" probability="0.001"/>
+	<flow id="flow_W10_W12" route="route_W10_W12" type="type1" begin="0" 	number="85" probability="0.005"/>
+
+	<flow id="flow_W13_W03" route="route_W13_W03" type="type2" begin="0" 	number="50" probability="0.005"/>
+	<flow id="flow_W13_W09" route="route_W13_W09" type="type1" begin="0" 	number="100" probability="0.005"/>
+	<flow id="flow_W13_W01" route="route_W13_W01" type="type2" begin="0" 	number="85" probability="0.005"/>
+	<flow id="flow_W13_W06" route="route_W13_W06" type="type1" begin="0" 	number="110" probability="0.001"/>
+	<flow id="flow_W13_W12" route="route_W13_W12" type="type2" begin="0" 	number="100" probability="0.005"/>
+</routes>
